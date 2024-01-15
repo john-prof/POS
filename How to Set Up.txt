@@ -1,0 +1,27 @@
+=====================================================================================
+...........Installation Procedure........
+=====================================================================================
+
+1.  Install xampp.
+    Make sure you keep the location as default during installation ie. C://xampp
+
+2.  Copy the folder MySql provided and navigate to C://xampp and paste it here.
+    Replace the existing folder and files in the folder by clicking on replace
+    and marking do this for all files.
+
+
+
+
+NB:::::: This software is best suited for a device with 1000 pixels width and above.
+
+======================================================================================
+...........Log in details...........
+======================================================================================
+
+1.  Admin Account: username: John254
+	           Password: 1234
+2.  User Account: username: James
+	          Password: 12345
+
+NB::::: The software is case sensitive. You can navigate to User panel
+         to create another account or delete an account.
